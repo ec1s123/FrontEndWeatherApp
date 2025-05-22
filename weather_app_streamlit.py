@@ -4,7 +4,7 @@ from datetime import datetime, time, timezone, timedelta
 from collections import defaultdict
 import pandas as pd
 
-API_KEY = 'e70daeaec703afb866ed8107b1c6cf8b'
+API_KEY = 'PLACE_YOUR_API_HERE'
 
 st.set_page_config(page_title="Weather App", layout="wide")
 st.title("🌦️ Adam Eccles' Weather App")
